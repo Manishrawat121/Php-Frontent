@@ -1,0 +1,42 @@
+.text-center {
+    text-align: center!important;
+    color: #707070;
+}
+.center{
+    text-align: center!important;
+    
+}
+
+.btn-readmore {
+    background: #FF3600;
+    border-radius: 25px;
+    color: white;
+    font-weight: 500;
+}
+.working{
+    background: #FF3600;
+}
+.ui{
+    width: 371px;
+    height: 277;
+}
+.btn-col{
+    background: #FF3600;
+}
+
+.client{
+        height: 396px;
+        width: 318px;
+    }
+
+      
+      .card-registration .select-input.form-control[readonly]:not([disabled]) {
+        font-size: 1rem;
+        line-height: 2.15;
+        padding-left: .75em;
+        padding-right: .75em;
+      }
+      .card-registration .select-arrow {
+        top: 13px;
+      }
+      
